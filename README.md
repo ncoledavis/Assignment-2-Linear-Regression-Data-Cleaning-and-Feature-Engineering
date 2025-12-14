@@ -4,6 +4,7 @@
 ## **Project Overview**  
 This project applies a **Linear Regression model** to predict house sale prices using housing data from King County. The dataset includes various property attributes, and the target variable is **`sale_price`**.
 
+# **https://youtu.be/jfNapQaJtdg**
 ---
 
 ## **Dataset Description**  
