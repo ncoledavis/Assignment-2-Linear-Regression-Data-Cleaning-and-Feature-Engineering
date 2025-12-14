@@ -1,4 +1,4 @@
-# **Linear Regression on King County Housing Data**  
+# **Assignment 2: Linear Regression, Data Cleaning, and Feature Engineering**  
 **Author:** Nathaniel Davis  
 
 ## **Project Overview**  
